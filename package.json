@@ -1,0 +1,23 @@
+{
+  "name": "bad-tv-shader",
+  "version": "1.0.0",
+  "description": "BadTV Effect for Three.js ",
+  "main": "BadTVShader.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gauthier-th/bad-tv-shader.git"
+  },
+  "keywords": [],
+  "author": "felixturner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gauthier-th/bad-tv-shader/issues"
+  },
+  "homepage": "https://github.com/gauthier-th/bad-tv-shader#readme"
+}
